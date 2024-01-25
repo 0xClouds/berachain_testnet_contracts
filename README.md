@@ -21,5 +21,5 @@ You can choose any of the contracts to deploy from the script directory
 
 in your terminal run:
 
-`forge script script/script_contract_name --RPC_URL https://artio.rpc.berachain.com/ --account keystore_account_name --sender account_address --broadcast -vvvv`
+`forge script script/<script_contract_name> --RPC_URL https://artio.rpc.berachain.com/ --account <keystore_account_name> --sender <account_address> --broadcast -vvvv`
 
